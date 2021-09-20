@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid 2px;
+    padding: 10px;
+    text-align: center;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 8px;
+}
